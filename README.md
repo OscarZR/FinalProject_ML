@@ -7,4 +7,5 @@ https://www.kaggle.com/tolgadincer/labeled-chest-xray-images
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 Los datasets ya modificados y separados por carpetas específicas se encuentran:
-https://drive.google.com/drive/u/0/folders/13OhEie4AE0tngj_mzE2ofNG0mmZ_hIBv
+
+https://drive.google.com/drive/folders/1N0b8xzFBklvndHmU7j6bUhoeaibEOFqC?usp=sharing
